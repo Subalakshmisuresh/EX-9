@@ -46,7 +46,11 @@ OUTPUT:
 
 CLIENT:
 
+![image](https://github.com/Subalakshmisuresh/EX-9/assets/121957896/a775992b-b9ec-4239-a316-0efba38e3626)
+
 SERVER:
+
+![image](https://github.com/Subalakshmisuresh/EX-9/assets/121957896/b6eece2f-8eda-40a5-a2b0-02bf6472f1e6)
 
 RESULT:
 
